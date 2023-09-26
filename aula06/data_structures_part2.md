@@ -56,7 +56,7 @@ public class ExemploHashSet {
 }
 ```
 
-Aqui criamos um HashSet chamado "nomes" para armazenar nomes de pessoas. Observe como a duplicata "Alice" foi automaticamente removida. O HashSet permite que você verifique a existência de elementos rapidamente usando o método contains e itere facilmente por seus elementos. É uma estrutura de dados eficaz para lidar com conjuntos de dados onde a exclusividade dos elementos é importante.
+Aqui criamos um HashSet chamado "nomes" para armazenar nomes de pessoas. Observe como a duplicata "Mario" foi automaticamente removida. O HashSet permite que você verifique a existência de elementos rapidamente usando o método contains e itere facilmente por seus elementos. É uma estrutura de dados eficaz para lidar com conjuntos de dados onde a exclusividade dos elementos é importante.
 
 **Mapas** 🗺️🗺️🗺️
 
